@@ -2,10 +2,10 @@
 - degree: Ph.D., Plant Pathology
   uni: University of Florida
   year: 2016 &mdash; 2021
-  awards:
-    - award: APS Foundation Student Travel Awards. 2020. American Phytopathological Society Foundation
-    - award: Government Scholarship to Study Abroad. 2018-2020. Ministry of Education. Taiwan
-    - award: IFAS/CALS Graduate Student Travel Grant. 2018. IFAS Shared Service Center, University of Florida
+  # awards:
+  #   - award: APS Foundation Student Travel Awards. 2020. American Phytopathological Society Foundation
+  #   - award: Government Scholarship to Study Abroad. 2018-2020. Ministry of Education. Taiwan
+  #   - award: IFAS/CALS Graduate Student Travel Grant. 2018. IFAS Shared Service Center, University of Florida
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: M.S., Plant Pathology
