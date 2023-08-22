@@ -25,7 +25,7 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Dr. Yu is a motivated innovator with hands-on experience developing, executing, analyzing, and summarizing NGS data for the studies of pine breeding and fungal pathogenesis. 
 She is a knowledgeable professional with proficiency in molecular biology and genetics as evidenced by coordinating 2 training workshops, and 12 peer-reviewed publications. 
-Her strong interpersonal and organizational communication skills are proven by managing multidisciplinary research projects resulting in the development of 2 national/international collaborative research programs</p>"
+Her strong interpersonal and organizational communication skills are proven by managing multidisciplinary research projects resulting in the development of 2 national/international collaborative research programs.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -48,12 +48,12 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/ply2022/ply2022.github.io"
-  resume_twitter_url:           "https://scholar.google.com/citations?user=hxkX-WgAAAAJ&hl=en"
+  # resume_twitter_url:           "URL"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/pei-ling-yu-384299117/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://scholar.google.com/citations?user=hxkX-WgAAAAJ&hl=en"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
