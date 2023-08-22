@@ -1,12 +1,17 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-# - organization: American Association for the Advancement of Science (AAAS)
-#   # role: Volunteer
-#   year: 2021 &mdash; present
-#   url: https://www.aaas.org/
-#   # summary: 
+- organization: American Association for the Advancement of Science (AAAS)
+  # role: Volunteer
+  year: 2021 &mdash; present
+  url: https://www.aaas.org/
+  # summary: 
 
+- organization: American Phytopathology Society
+  # role: Volunteer
+  year: 2018 &mdash; present
+  url: https://www.apsnet.org/Pages/default.aspx
+  # summary: 
 
 # - organization: Yale Amnesty International
 #   role: Communications coordinator
