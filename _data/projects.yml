@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # UFAID
-- project: A Universal Pathogen Identification Tool (UPIT) for CETCIL partners. 
+- project: A Universal Pathogen Identification Tool (UPIT) for CETCIL partners
   funder: United States Agency for International Development. $105,000
   role: Co-PI
   duration: 2023 &mdash; 2024
@@ -10,8 +10,8 @@
   # description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # FFAR-ROAR
-- project: Development of a universal diagnostic tool for needle diseases of southern pines using Nanopore multi-gene target-capture sequencing.
-  funder: Foundation for Food and Agriculture Research. $ 30,012.22 (matching funder-UF).
+- project: Development of a universal diagnostic tool for needle diseases of southern pines using Nanopore multi-gene target-capture sequencing
+  funder: Foundation for Food and Agriculture Research. $ 30,012.22 (matching funder-UF)
   role: Co-PI
   duration: 2023 &mdash; 2024
   # url: "#"
