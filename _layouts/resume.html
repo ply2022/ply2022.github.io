@@ -203,17 +203,13 @@
         <header class="section-header">
           <h2>Additional Links</h2>
         </header>
-
-        {% for link in site.data.links %}
         <div class="resume-item">
           <ul class="resume-item-list">
-
-            <li><a href="{{ link.url }}" itemprop="url">"{{ link.description }}"</a></li>
-
+            {% for link in site.data.links %}
+            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            {% endfor %}
           </ul>
         </div>
-        {% endfor %}
-
       </section>
       <!-- end Links -->
       {% endif %}
