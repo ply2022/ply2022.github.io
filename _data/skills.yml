@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: Workshop, TA, mentoring 
+# - skill: Organizational leadership
+#   description: Workshop, TA, mentoring 
 
 # # Communications strategy
 # - skill: Communications strategy
@@ -9,4 +9,5 @@
 
 # Research skills
 - skill: Research skills
-  description: cytology, molecular biology, genomics, and transcriptomics.
+  description: Nucleic acids and protein extraction, NGS library prepatation, whole genome/targeted sequencing, transcriptomic profiling, NGS data analysis, molecular diagnosis.
+
