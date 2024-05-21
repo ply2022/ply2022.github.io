@@ -18,6 +18,14 @@
   # description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
 # NASA
+- project: Multiplexed phytohormone and nitrate sensors for in situ and real-time analysis of plant responses to pathogenic stress
+  funder: NASA
+  role: Collaborator
+  # duration: 
+  # # url: "#"
+  description: Under review.
+
+# NASA
 - project: Investigating the impacts of low-dose chronic simulated cosmic radiation on plant-microbial interactions
   funder: NASA
   role: Co-PI
